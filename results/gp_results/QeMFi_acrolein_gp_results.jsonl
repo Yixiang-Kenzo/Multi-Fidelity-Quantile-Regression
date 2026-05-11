@@ -1,0 +1,120 @@
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.880167, "cqr_wid": 2.665135, "raw_cov": 0.032333, "raw_wid": 0.070445}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.874833, "cqr_wid": 2.320144, "raw_cov": 0.040833, "raw_wid": 0.07676}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.880667, "cqr_wid": 2.425993, "raw_cov": 0.024833, "raw_wid": 0.045908}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899167, "cqr_wid": 1.844824, "raw_cov": 0.000667, "raw_wid": 0.001096}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8855, "cqr_wid": 1.845081, "raw_cov": 0.000167, "raw_wid": 0.000591}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896167, "cqr_wid": 1.688369, "raw_cov": 0.616167, "raw_wid": 0.85615}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905167, "cqr_wid": 2.353353, "raw_cov": 0.041, "raw_wid": 0.068034}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.894, "cqr_wid": 2.065589, "raw_cov": 0.054, "raw_wid": 0.072384}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.916167, "cqr_wid": 2.333609, "raw_cov": 0.024833, "raw_wid": 0.038853}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.911667, "cqr_wid": 1.678987, "raw_cov": 0.000167, "raw_wid": 0.001022}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.925167, "cqr_wid": 1.866215, "raw_cov": 0.000333, "raw_wid": 0.000573}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8985, "cqr_wid": 1.523003, "raw_cov": 0.6765, "raw_wid": 0.854336}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.903167, "cqr_wid": 2.6596, "raw_cov": 0.0325, "raw_wid": 0.068643}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9005, "cqr_wid": 2.477222, "raw_cov": 0.0405, "raw_wid": 0.074747}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.913333, "cqr_wid": 2.684759, "raw_cov": 0.0235, "raw_wid": 0.042051}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.921, "cqr_wid": 1.932013, "raw_cov": 0.000833, "raw_wid": 0.001065}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.921167, "cqr_wid": 2.020073, "raw_cov": 0.000833, "raw_wid": 0.000576}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9155, "cqr_wid": 1.777254, "raw_cov": 0.6375, "raw_wid": 0.855057}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.919667, "cqr_wid": 3.034686, "raw_cov": 0.039167, "raw_wid": 0.067739}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915, "cqr_wid": 2.660283, "raw_cov": 0.043, "raw_wid": 0.072402}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.920667, "cqr_wid": 2.844318, "raw_cov": 0.023667, "raw_wid": 0.044013}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908833, "cqr_wid": 1.786641, "raw_cov": 0.0005, "raw_wid": 0.00103}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902667, "cqr_wid": 1.846517, "raw_cov": 0.000333, "raw_wid": 0.000553}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.918833, "cqr_wid": 1.801096, "raw_cov": 0.626167, "raw_wid": 0.858972}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8995, "cqr_wid": 2.802328, "raw_cov": 0.033333, "raw_wid": 0.064789}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.892833, "cqr_wid": 2.42895, "raw_cov": 0.039667, "raw_wid": 0.071658}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.895167, "cqr_wid": 2.512925, "raw_cov": 0.024333, "raw_wid": 0.041952}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905333, "cqr_wid": 2.070823, "raw_cov": 0.000333, "raw_wid": 0.001081}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.894667, "cqr_wid": 2.055208, "raw_cov": 0.0, "raw_wid": 0.000607}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904, "cqr_wid": 1.833482, "raw_cov": 0.618667, "raw_wid": 0.857209}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.932, "cqr_wid": 2.857482, "raw_cov": 0.042333, "raw_wid": 0.068349}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908667, "cqr_wid": 2.047381, "raw_cov": 0.053333, "raw_wid": 0.073601}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.913, "cqr_wid": 2.46727, "raw_cov": 0.027167, "raw_wid": 0.042931}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.916333, "cqr_wid": 1.799564, "raw_cov": 0.001167, "raw_wid": 0.001051}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.913667, "cqr_wid": 1.887085, "raw_cov": 0.000167, "raw_wid": 0.000581}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908167, "cqr_wid": 1.643053, "raw_cov": 0.661333, "raw_wid": 0.851373}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902333, "cqr_wid": 2.802364, "raw_cov": 0.0385, "raw_wid": 0.068819}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908667, "cqr_wid": 2.416673, "raw_cov": 0.046333, "raw_wid": 0.073946}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905167, "cqr_wid": 2.582577, "raw_cov": 0.023833, "raw_wid": 0.040018}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.897833, "cqr_wid": 1.914524, "raw_cov": 0.000667, "raw_wid": 0.001078}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9025, "cqr_wid": 1.999106, "raw_cov": 0.000333, "raw_wid": 0.000582}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8925, "cqr_wid": 1.751718, "raw_cov": 0.625, "raw_wid": 0.857093}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889667, "cqr_wid": 2.182578, "raw_cov": 0.045167, "raw_wid": 0.069965}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.884333, "cqr_wid": 1.883407, "raw_cov": 0.050167, "raw_wid": 0.075389}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.88, "cqr_wid": 2.035433, "raw_cov": 0.030333, "raw_wid": 0.040772}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.887333, "cqr_wid": 1.530889, "raw_cov": 0.000333, "raw_wid": 0.00098}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.886167, "cqr_wid": 1.640545, "raw_cov": 0.000667, "raw_wid": 0.000554}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901333, "cqr_wid": 1.514887, "raw_cov": 0.672, "raw_wid": 0.85197}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898333, "cqr_wid": 2.634127, "raw_cov": 0.0335, "raw_wid": 0.06588}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8915, "cqr_wid": 2.313659, "raw_cov": 0.042333, "raw_wid": 0.07134}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.887167, "cqr_wid": 2.352592, "raw_cov": 0.026, "raw_wid": 0.040229}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896667, "cqr_wid": 1.702247, "raw_cov": 0.000833, "raw_wid": 0.001105}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.903667, "cqr_wid": 1.840775, "raw_cov": 0.000167, "raw_wid": 0.000559}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8995, "cqr_wid": 1.695594, "raw_cov": 0.6285, "raw_wid": 0.856779}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9085, "cqr_wid": 2.66172, "raw_cov": 0.040167, "raw_wid": 0.067835}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.918167, "cqr_wid": 2.439553, "raw_cov": 0.046, "raw_wid": 0.072632}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.909333, "cqr_wid": 2.441904, "raw_cov": 0.026167, "raw_wid": 0.041759}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908667, "cqr_wid": 1.852314, "raw_cov": 0.001333, "raw_wid": 0.001069}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908667, "cqr_wid": 1.948531, "raw_cov": 0.000833, "raw_wid": 0.000565}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9175, "cqr_wid": 1.771329, "raw_cov": 0.657, "raw_wid": 0.85457}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902333, "cqr_wid": 2.765795, "raw_cov": 0.039333, "raw_wid": 0.070877}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905167, "cqr_wid": 2.471587, "raw_cov": 0.045833, "raw_wid": 0.075989}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9115, "cqr_wid": 2.632005, "raw_cov": 0.027833, "raw_wid": 0.042924}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889833, "cqr_wid": 1.788323, "raw_cov": 0.000667, "raw_wid": 0.001055}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896, "cqr_wid": 1.908941, "raw_cov": 0.0, "raw_wid": 0.000561}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.911, "cqr_wid": 1.72309, "raw_cov": 0.638, "raw_wid": 0.857519}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9, "cqr_wid": 2.593033, "raw_cov": 0.037167, "raw_wid": 0.066097}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898833, "cqr_wid": 2.208994, "raw_cov": 0.0465, "raw_wid": 0.0716}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.888167, "cqr_wid": 2.177654, "raw_cov": 0.024333, "raw_wid": 0.040539}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.895167, "cqr_wid": 1.665091, "raw_cov": 0.000667, "raw_wid": 0.000999}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.900167, "cqr_wid": 1.815422, "raw_cov": 0.0005, "raw_wid": 0.000588}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.891333, "cqr_wid": 1.553302, "raw_cov": 0.6545, "raw_wid": 0.854601}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.913667, "cqr_wid": 2.62639, "raw_cov": 0.039833, "raw_wid": 0.068441}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.907167, "cqr_wid": 2.284097, "raw_cov": 0.051833, "raw_wid": 0.073577}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9165, "cqr_wid": 2.58774, "raw_cov": 0.031, "raw_wid": 0.041561}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902167, "cqr_wid": 1.740467, "raw_cov": 0.000833, "raw_wid": 0.001}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9005, "cqr_wid": 1.805565, "raw_cov": 0.0, "raw_wid": 0.00056}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899833, "cqr_wid": 1.633443, "raw_cov": 0.653667, "raw_wid": 0.853842}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.879833, "cqr_wid": 2.483123, "raw_cov": 0.037667, "raw_wid": 0.069623}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.910833, "cqr_wid": 2.586376, "raw_cov": 0.042333, "raw_wid": 0.075146}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.894667, "cqr_wid": 2.403209, "raw_cov": 0.024667, "raw_wid": 0.0443}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898333, "cqr_wid": 1.759072, "raw_cov": 0.000833, "raw_wid": 0.00104}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.894167, "cqr_wid": 1.830461, "raw_cov": 0.000167, "raw_wid": 0.000585}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901667, "cqr_wid": 1.622238, "raw_cov": 0.655667, "raw_wid": 0.854263}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.906167, "cqr_wid": 2.471979, "raw_cov": 0.038833, "raw_wid": 0.066698}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.922167, "cqr_wid": 2.411646, "raw_cov": 0.0465, "raw_wid": 0.072152}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.907, "cqr_wid": 2.331625, "raw_cov": 0.022333, "raw_wid": 0.040564}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.912833, "cqr_wid": 1.808674, "raw_cov": 0.000667, "raw_wid": 0.001047}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915, "cqr_wid": 1.951268, "raw_cov": 0.000167, "raw_wid": 0.00065}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.918667, "cqr_wid": 1.722096, "raw_cov": 0.663167, "raw_wid": 0.854865}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.892833, "cqr_wid": 2.568005, "raw_cov": 0.0395, "raw_wid": 0.067957}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.906, "cqr_wid": 2.228587, "raw_cov": 0.053, "raw_wid": 0.073625}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896333, "cqr_wid": 2.410301, "raw_cov": 0.0295, "raw_wid": 0.043329}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.890667, "cqr_wid": 1.75354, "raw_cov": 0.000667, "raw_wid": 0.001049}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.890667, "cqr_wid": 1.8338, "raw_cov": 0.000333, "raw_wid": 0.000585}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904333, "cqr_wid": 1.698939, "raw_cov": 0.635333, "raw_wid": 0.853319}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908333, "cqr_wid": 2.479849, "raw_cov": 0.032833, "raw_wid": 0.064486}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.894333, "cqr_wid": 2.181885, "raw_cov": 0.044667, "raw_wid": 0.069847}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908167, "cqr_wid": 2.388054, "raw_cov": 0.020333, "raw_wid": 0.039379}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.914167, "cqr_wid": 1.843765, "raw_cov": 0.0005, "raw_wid": 0.001065}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9055, "cqr_wid": 1.866507, "raw_cov": 0.000167, "raw_wid": 0.000572}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.910667, "cqr_wid": 1.676812, "raw_cov": 0.648333, "raw_wid": 0.855335}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904667, "cqr_wid": 2.373503, "raw_cov": 0.036333, "raw_wid": 0.06274}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.894833, "cqr_wid": 2.080576, "raw_cov": 0.043833, "raw_wid": 0.067662}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.911167, "cqr_wid": 2.279268, "raw_cov": 0.0255, "raw_wid": 0.040548}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.886, "cqr_wid": 1.646965, "raw_cov": 0.000667, "raw_wid": 0.000971}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899167, "cqr_wid": 1.794083, "raw_cov": 0.000167, "raw_wid": 0.000528}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.891167, "cqr_wid": 1.594874, "raw_cov": 0.659333, "raw_wid": 0.854482}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.886833, "cqr_wid": 2.705757, "raw_cov": 0.036833, "raw_wid": 0.069892}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.906167, "cqr_wid": 2.574038, "raw_cov": 0.045333, "raw_wid": 0.07551}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889667, "cqr_wid": 2.547904, "raw_cov": 0.024333, "raw_wid": 0.04433}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.880833, "cqr_wid": 1.825851, "raw_cov": 0.000667, "raw_wid": 0.001139}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.891667, "cqr_wid": 1.990606, "raw_cov": 0.000167, "raw_wid": 0.000629}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.911333, "cqr_wid": 1.841794, "raw_cov": 0.615667, "raw_wid": 0.8573}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.892167, "cqr_wid": 2.979554, "raw_cov": 0.0335, "raw_wid": 0.066366}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (augment)", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.890167, "cqr_wid": 2.766713, "raw_cov": 0.0375, "raw_wid": 0.073806}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "HF-Only (offset)", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8835, "cqr_wid": 2.632065, "raw_cov": 0.023333, "raw_wid": 0.045659}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8995, "cqr_wid": 1.946659, "raw_cov": 0.000167, "raw_wid": 0.001127}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset)", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902333, "cqr_wid": 2.053962, "raw_cov": 0.000333, "raw_wid": 0.000598}
+{"dataset": "QeMFi_acrolein", "backend": "gp", "method": "Transfer (offset) + 1Step", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.888333, "cqr_wid": 1.808454, "raw_cov": 0.589667, "raw_wid": 0.856659}

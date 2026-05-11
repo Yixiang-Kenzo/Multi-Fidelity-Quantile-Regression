@@ -1,0 +1,120 @@
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.900667, "cqr_wid": 2.664889, "raw_cov": 0.917167, "raw_wid": 2.798687}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915833, "cqr_wid": 2.483654, "raw_cov": 0.916667, "raw_wid": 2.49019}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.913333, "cqr_wid": 2.37431, "raw_cov": 0.906667, "raw_wid": 2.314776}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.910333, "cqr_wid": 2.434306, "raw_cov": 0.906833, "raw_wid": 2.409219}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915667, "cqr_wid": 2.216661, "raw_cov": 0.897333, "raw_wid": 2.106496}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 1, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9135, "cqr_wid": 2.188578, "raw_cov": 0.908333, "raw_wid": 2.149179}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.903, "cqr_wid": 2.594395, "raw_cov": 0.922833, "raw_wid": 2.717724}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9225, "cqr_wid": 2.412379, "raw_cov": 0.9185, "raw_wid": 2.389894}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915167, "cqr_wid": 2.230982, "raw_cov": 0.91, "raw_wid": 2.204394}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.924167, "cqr_wid": 2.288992, "raw_cov": 0.902833, "raw_wid": 2.161874}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.926667, "cqr_wid": 2.168773, "raw_cov": 0.909333, "raw_wid": 2.036602}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 2, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9205, "cqr_wid": 2.092903, "raw_cov": 0.9135, "raw_wid": 2.039783}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898167, "cqr_wid": 2.687228, "raw_cov": 0.930667, "raw_wid": 2.904016}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889667, "cqr_wid": 2.31697, "raw_cov": 0.915, "raw_wid": 2.45409}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.881667, "cqr_wid": 2.142454, "raw_cov": 0.915333, "raw_wid": 2.368413}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.890333, "cqr_wid": 2.284142, "raw_cov": 0.902167, "raw_wid": 2.346864}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896, "cqr_wid": 2.054474, "raw_cov": 0.909333, "raw_wid": 2.144714}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 3, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.887667, "cqr_wid": 1.986974, "raw_cov": 0.911667, "raw_wid": 2.13491}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908833, "cqr_wid": 2.308205, "raw_cov": 0.9065, "raw_wid": 2.294289}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902333, "cqr_wid": 2.138224, "raw_cov": 0.887167, "raw_wid": 2.062745}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.907833, "cqr_wid": 1.951065, "raw_cov": 0.894333, "raw_wid": 1.855917}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.909333, "cqr_wid": 1.977892, "raw_cov": 0.894, "raw_wid": 1.903702}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.909167, "cqr_wid": 1.850449, "raw_cov": 0.898, "raw_wid": 1.771491}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 4, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9115, "cqr_wid": 1.85589, "raw_cov": 0.897167, "raw_wid": 1.76745}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908333, "cqr_wid": 2.69938, "raw_cov": 0.912167, "raw_wid": 2.729902}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899667, "cqr_wid": 2.267224, "raw_cov": 0.9085, "raw_wid": 2.315276}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.917333, "cqr_wid": 2.24316, "raw_cov": 0.905667, "raw_wid": 2.151264}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9045, "cqr_wid": 2.192597, "raw_cov": 0.898, "raw_wid": 2.144699}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.903833, "cqr_wid": 2.026526, "raw_cov": 0.894333, "raw_wid": 1.973746}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 5, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905667, "cqr_wid": 2.028869, "raw_cov": 0.895667, "raw_wid": 1.967731}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.893333, "cqr_wid": 2.669243, "raw_cov": 0.911667, "raw_wid": 2.785719}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8745, "cqr_wid": 2.240169, "raw_cov": 0.904333, "raw_wid": 2.421381}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889333, "cqr_wid": 2.180723, "raw_cov": 0.909167, "raw_wid": 2.315499}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.880833, "cqr_wid": 2.219456, "raw_cov": 0.914833, "raw_wid": 2.427362}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.888167, "cqr_wid": 2.063078, "raw_cov": 0.8955, "raw_wid": 2.114903}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 6, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.884333, "cqr_wid": 2.046835, "raw_cov": 0.903, "raw_wid": 2.154834}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.916, "cqr_wid": 2.84726, "raw_cov": 0.915167, "raw_wid": 2.839332}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908167, "cqr_wid": 2.487087, "raw_cov": 0.918, "raw_wid": 2.55009}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8955, "cqr_wid": 2.251061, "raw_cov": 0.915833, "raw_wid": 2.387075}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9055, "cqr_wid": 2.400462, "raw_cov": 0.912833, "raw_wid": 2.437149}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8935, "cqr_wid": 2.11013, "raw_cov": 0.9105, "raw_wid": 2.22689}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 7, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901167, "cqr_wid": 2.102626, "raw_cov": 0.922167, "raw_wid": 2.23233}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901667, "cqr_wid": 2.604765, "raw_cov": 0.919833, "raw_wid": 2.719905}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904, "cqr_wid": 2.275285, "raw_cov": 0.925167, "raw_wid": 2.42199}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905, "cqr_wid": 2.219929, "raw_cov": 0.920833, "raw_wid": 2.316291}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.897833, "cqr_wid": 2.233187, "raw_cov": 0.914667, "raw_wid": 2.312842}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.902833, "cqr_wid": 2.047832, "raw_cov": 0.917833, "raw_wid": 2.136558}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 8, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905333, "cqr_wid": 2.037025, "raw_cov": 0.917833, "raw_wid": 2.104522}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9025, "cqr_wid": 2.791487, "raw_cov": 0.900333, "raw_wid": 2.781824}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.907333, "cqr_wid": 2.505955, "raw_cov": 0.905167, "raw_wid": 2.49935}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.923, "cqr_wid": 2.489605, "raw_cov": 0.903833, "raw_wid": 2.336714}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908667, "cqr_wid": 2.448877, "raw_cov": 0.900167, "raw_wid": 2.403323}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.918833, "cqr_wid": 2.292641, "raw_cov": 0.910833, "raw_wid": 2.231028}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 9, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.916167, "cqr_wid": 2.239761, "raw_cov": 0.909167, "raw_wid": 2.196151}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915833, "cqr_wid": 2.927222, "raw_cov": 0.900667, "raw_wid": 2.775537}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9075, "cqr_wid": 2.556803, "raw_cov": 0.892333, "raw_wid": 2.446208}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.915167, "cqr_wid": 2.560469, "raw_cov": 0.88, "raw_wid": 2.278104}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.909, "cqr_wid": 2.531483, "raw_cov": 0.879167, "raw_wid": 2.357203}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.907333, "cqr_wid": 2.323926, "raw_cov": 0.880333, "raw_wid": 2.11964}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 10, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.909833, "cqr_wid": 2.332092, "raw_cov": 0.887, "raw_wid": 2.177887}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889333, "cqr_wid": 2.588063, "raw_cov": 0.903167, "raw_wid": 2.681904}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.886, "cqr_wid": 2.312351, "raw_cov": 0.8975, "raw_wid": 2.37298}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8945, "cqr_wid": 2.173946, "raw_cov": 0.904333, "raw_wid": 2.240589}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901167, "cqr_wid": 2.285669, "raw_cov": 0.892833, "raw_wid": 2.24505}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.888667, "cqr_wid": 2.050598, "raw_cov": 0.895, "raw_wid": 2.080767}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 11, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898333, "cqr_wid": 2.058761, "raw_cov": 0.900667, "raw_wid": 2.077787}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.888667, "cqr_wid": 2.595491, "raw_cov": 0.912667, "raw_wid": 2.764605}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8815, "cqr_wid": 2.300003, "raw_cov": 0.896833, "raw_wid": 2.37581}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.883667, "cqr_wid": 2.156307, "raw_cov": 0.898833, "raw_wid": 2.262404}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.877667, "cqr_wid": 2.187141, "raw_cov": 0.886167, "raw_wid": 2.230724}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8885, "cqr_wid": 2.047054, "raw_cov": 0.892, "raw_wid": 2.071692}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 12, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.875333, "cqr_wid": 1.973459, "raw_cov": 0.89, "raw_wid": 2.0542}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898333, "cqr_wid": 2.479009, "raw_cov": 0.933667, "raw_wid": 2.70775}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904, "cqr_wid": 2.234169, "raw_cov": 0.931833, "raw_wid": 2.384627}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.910167, "cqr_wid": 2.143388, "raw_cov": 0.921167, "raw_wid": 2.220366}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9035, "cqr_wid": 2.16575, "raw_cov": 0.9145, "raw_wid": 2.223939}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.926833, "cqr_wid": 2.119288, "raw_cov": 0.913667, "raw_wid": 2.028713}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 13, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.925167, "cqr_wid": 2.079819, "raw_cov": 0.916333, "raw_wid": 2.019719}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.883667, "cqr_wid": 2.608912, "raw_cov": 0.911833, "raw_wid": 2.786644}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.887833, "cqr_wid": 2.314319, "raw_cov": 0.915333, "raw_wid": 2.465291}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.900333, "cqr_wid": 2.29487, "raw_cov": 0.906833, "raw_wid": 2.342518}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899833, "cqr_wid": 2.313065, "raw_cov": 0.914667, "raw_wid": 2.405394}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901, "cqr_wid": 2.101764, "raw_cov": 0.908333, "raw_wid": 2.151928}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 14, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.905833, "cqr_wid": 2.134534, "raw_cov": 0.908667, "raw_wid": 2.156611}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.887, "cqr_wid": 2.614091, "raw_cov": 0.913333, "raw_wid": 2.79828}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898667, "cqr_wid": 2.398401, "raw_cov": 0.9025, "raw_wid": 2.419288}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.891833, "cqr_wid": 2.221066, "raw_cov": 0.897333, "raw_wid": 2.267867}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899333, "cqr_wid": 2.322553, "raw_cov": 0.892167, "raw_wid": 2.272773}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.893667, "cqr_wid": 2.137047, "raw_cov": 0.889333, "raw_wid": 2.110762}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 15, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.889, "cqr_wid": 2.111305, "raw_cov": 0.896167, "raw_wid": 2.143338}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.895167, "cqr_wid": 2.709252, "raw_cov": 0.909333, "raw_wid": 2.803763}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.890333, "cqr_wid": 2.35066, "raw_cov": 0.898167, "raw_wid": 2.399964}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.884167, "cqr_wid": 2.158215, "raw_cov": 0.906833, "raw_wid": 2.305037}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.892667, "cqr_wid": 2.2915, "raw_cov": 0.892833, "raw_wid": 2.29251}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.891167, "cqr_wid": 2.091812, "raw_cov": 0.898833, "raw_wid": 2.130212}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 16, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.888833, "cqr_wid": 2.056372, "raw_cov": 0.902333, "raw_wid": 2.134951}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.900333, "cqr_wid": 2.659681, "raw_cov": 0.916833, "raw_wid": 2.777538}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.907, "cqr_wid": 2.385839, "raw_cov": 0.907667, "raw_wid": 2.392522}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9065, "cqr_wid": 2.359144, "raw_cov": 0.8845, "raw_wid": 2.217272}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.912, "cqr_wid": 2.390595, "raw_cov": 0.891667, "raw_wid": 2.288274}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896833, "cqr_wid": 2.152709, "raw_cov": 0.890667, "raw_wid": 2.096842}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 17, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.897833, "cqr_wid": 2.133015, "raw_cov": 0.8955, "raw_wid": 2.110922}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.89, "cqr_wid": 2.588045, "raw_cov": 0.912667, "raw_wid": 2.729622}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.8915, "cqr_wid": 2.300094, "raw_cov": 0.915667, "raw_wid": 2.426492}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.875667, "cqr_wid": 2.079216, "raw_cov": 0.9125, "raw_wid": 2.313553}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.890333, "cqr_wid": 2.242454, "raw_cov": 0.903833, "raw_wid": 2.327524}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.896333, "cqr_wid": 2.049242, "raw_cov": 0.8975, "raw_wid": 2.055462}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 18, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.892167, "cqr_wid": 2.00564, "raw_cov": 0.909333, "raw_wid": 2.095382}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.921333, "cqr_wid": 2.678612, "raw_cov": 0.927667, "raw_wid": 2.733943}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904667, "cqr_wid": 2.225585, "raw_cov": 0.905, "raw_wid": 2.2279}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.898833, "cqr_wid": 2.159196, "raw_cov": 0.892833, "raw_wid": 2.11219}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.908, "cqr_wid": 2.192365, "raw_cov": 0.894667, "raw_wid": 2.110661}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.899333, "cqr_wid": 2.012811, "raw_cov": 0.887333, "raw_wid": 1.937099}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 19, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.892, "cqr_wid": 1.959863, "raw_cov": 0.8905, "raw_wid": 1.95085}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.901833, "cqr_wid": 2.655409, "raw_cov": 0.927167, "raw_wid": 2.831379}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (augment)", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.9065, "cqr_wid": 2.32574, "raw_cov": 0.919667, "raw_wid": 2.415405}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "HF-Only (offset)", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.904667, "cqr_wid": 2.261895, "raw_cov": 0.905, "raw_wid": 2.266544}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.903, "cqr_wid": 2.280046, "raw_cov": 0.905167, "raw_wid": 2.288477}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset)", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.911167, "cqr_wid": 2.159878, "raw_cov": 0.889333, "raw_wid": 2.02494}
+{"dataset": "QeMFi_thymine", "backend": "rf", "method": "Transfer (offset) + 1Step", "seed": 20, "hf_frac": 0.05, "n2": 750, "cqr_cov": 0.906, "cqr_wid": 2.114071, "raw_cov": 0.891833, "raw_wid": 2.018245}
