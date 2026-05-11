@@ -1,0 +1,15 @@
+Copyright (c) 2026 Yixiang Liu and Yao Zhang.
+
+All rights reserved.
+
+This source code accompanies the paper "Multi-Fidelity Quantile Regression"
+(currently under review).  It is shared for the purpose of academic review
+and reproducibility verification.  No license is granted for use,
+modification, redistribution, or any other purpose, in any form, until
+further notice.
+
+A permissive open-source license (e.g., MIT or Apache 2.0) will be applied
+once the associated paper has been formally published.
+
+For questions or licensing requests prior to publication, please contact
+the authors.
